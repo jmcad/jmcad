@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmcad
-- 👀 I’m interested in coding
+- 👀 Genuinely interested in coding
 - 🌱 I’m currently learning to be better at programming
 
 <!---
