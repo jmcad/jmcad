@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmcad
 - 👀 Genuinely interested in coding
-- 🌱 I’m currently learning to be better at programming
+- 🌱 Always learning to be better at programming
 
 <!---
 jmcad/jmcad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
